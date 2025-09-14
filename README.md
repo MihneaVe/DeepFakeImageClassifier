@@ -246,7 +246,7 @@ Contributions are welcome! Please open issues/PRs with clear descriptions and mi
 
 ## License
 
-Specify your license here (e.g., MIT). Add a LICENSE file at the repo root.
+MIT License. See License file for more.
 
 ## Acknowledgements
 
